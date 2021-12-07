@@ -12,7 +12,7 @@ description.
 If interested in my solution and associated comments I 
 invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/07/leetcode-232-implement-queue-using-stacks-in-java/
 
 Keep in mind that one of the best ways to learn is to read 
 and practice, Practice makes perfect.
